@@ -98,9 +98,7 @@
 <section class="for-full-back color-white " id="about"  >
    <div class="container" >
         <div class="row  g-pad-bottom" >
-                <div class="col-md-12 ">
-                    <h3 class="text-center">3GPP RAN1 Delegate, Next Generation and Standards Group</h3>
-                </div> 
+                 
                 
                 <div class="col-md-12 ">
                     <div class="col-md-3 ">                   
@@ -110,8 +108,9 @@
                     </div>     
 
 
-                     <div class="col-md-8 ">                 
+                     <div class="col-md-9 ">                 
                       <div class="intro-div2"> 
+                      		<h3 class="text-center">3GPP RAN1 Delegate, Next Generation and Standards Group</h3>
                     <p>
                     	I'm a Wireless Systems Engineer at Intel Mobile Communications focusing on research and standardization of <a href= "http://www.3gpp.org/release-15">5G-NR</a> phyical layer radio access technology. My work is focused on developing advanced MIMO transmit/receive techniques and reference signal design for next generation wireless cellular networks. I also work on development of Intel's 3GPP standards-compliant system level simulation (SLS) platform for 5G-NR. 
                     	</p>
@@ -721,7 +720,7 @@
             <a href="https://scholar.google.com/citations?user=x2vtW-cAAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a>
             <a href="https://www.researchgate.net/profile/Avik_Sengupta" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a>
             <a href="https://www.facebook.com/avik.bubai?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="https://www.youtube.com/user/aviksenguptabubai" target="_blank"><i class="fa fa-500px-square fa-3x"></i></a>
+            <a href="https://www.youtube.com/user/aviksenguptabubai" target="_blank"><i class="fa fa-youtube-square fa-3x"></i></a>
 
           </div> 
           </div>             
