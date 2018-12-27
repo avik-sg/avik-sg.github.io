@@ -43,8 +43,8 @@
         <div class="row text-center">
       <div class="col-md-12" >
           <h1 class="head-main">AVIK SENGUPTA, Ph.D.</h1>
-           <h2 class="head-sub-main"> 5G Wireless Systems Engineer, Next Generation and Standards,</h2>
-          <h3 class="head-last">Intel Corporation, Santa Clara, CA USA. </h3>
+           <h2 class="head-sub-main"> 5G Wireless Systems Engineer</h2>
+          <h3 class="head-last">Intel Mobile Communications, Santa Clara, CA USA. </h3>
           </div>
             </div>
       </div>
@@ -99,7 +99,7 @@
    <div class="container" >
         <div class="row  g-pad-bottom" >
                 <div class="col-md-12 ">
-                    <h3 class="text-center"> Wireless@VT and The Hume Center for National Security & Technology</h3>
+                    <h3 class="text-center">3GPP RAN1 Delegate, Next Generation and Standards Group</h3>
                 </div> 
                 
                 <div class="col-md-12 ">
@@ -112,15 +112,13 @@
 
                      <div class="col-md-8 ">                 
                       <div class="intro-div2"> 
-                    
                     <p>
-                       I am a final year Ph.D. candidate at the Bradley Department of Electrical and Computer Engineering at Virginia Tech. I work with Wireless@VT and The Hume Center for National Security & Technology, and am being co-advised by <a href = "http://www.hume.vt.edu/~tcc/" >Dr. T. Charles Clancy </a>and <a href="http://www2.engr.arizona.edu/~tandonr/">Dr. Ravi Tandon</a>. My Ph.D. dissertation is based on <strong><b>caching and efficient content distribution in next generation 5G wireless networks</b></strong>. When I'm not distributing content in wireless networks, I'm either playing the guitar, tinkering with my camera and/or consuming all things food!
+                    	I'm a Wireless Systems Engineer at Intel Mobile Communications focusing on research and standardization of <a href= "http://www.3gpp.org/release-15">5G-NR</a> phyical layer radio access technology. My work is focused on developing advanced MIMO transmit/receive techniques and reference signal design for next generation wireless cellular networks. I also work on development of Intel's 3GPP standards-compliant system level simulation (SLS) platform for 5G-NR. 
+                    	</p>
+                    <p>
+                       I graduated with a Ph.D. in Wireless Communications from the Bradley Department of Electrical and Computer Engineering at Virginia Tech. I worked with Wireless@VT and The Hume Center for National Security & Technology, and was co-advised by <a href = "http://www.hume.vt.edu/~tcc/" >Dr. T. Charles Clancy </a>and <a href="http://www2.engr.arizona.edu/~tandonr/">Dr. Ravi Tandon</a>. My Ph.D. dissertation is based on <strong><b>caching and efficient content distribution in next generation 5G wireless networks</b></strong>. When I'm not distributing content in wireless networks, I'm either playing the guitar, tinkering with my camera and/or consuming all things food!
                      </p>
-                     <p>
-                     I am seeking a full-time research position in PHY/MAC layer design of Wireless Communication Systems. I have a strong research background in mathematical modeling and analysis of wireless communication systems with a focus on information theory, reinforcement learning with applications in communication systems and cross-layer optimization. 
-                     </br>
-                       
-                    </p> 
+                      
                       </div>      
                     
                     </div>     
@@ -185,9 +183,9 @@
                           <div class="service-div">                      
                                              
                               <h3>Virginia Tech </h3>   
-                              <h5><strong> Fall 2012 - Present </strong></h5>                
-                              <p>
-                                   Ph.D. Candidate in ECE </br>GPA: 3.94 / 4
+                              <h5><strong> Fall 2012 - Fall 2016 </strong></h5>                
+                              <p class ="edu2">
+                                   Ph.D. in ECE </br><b><a href="https://vtechworks.lib.vt.edu/handle/10919/73583" target="_blank"> Doctoral Dissertation </a></b></br> GPA: 3.94 / 4
                               </p>                   
                                                
                           </div>      
@@ -261,6 +259,18 @@
       <div class="row text-left g-pad-bottom" >
         <div class="col-md-12">
            
+           <div class="col-md-12 ">             
+              <div class="service-div">                                      
+                 <!-- <i class="fa fa-flask fa-5x"></i>  -->                              
+                  <h3>5G Wireless Systems Engineer</h3> 
+                  <h5> <strong>Intel Corporation, Santa Clara, CA | Feb 2017 - Present</strong> </h5>                  
+                  <p>
+                      Systems Engineer working on research and standardization of 5G-NR radio access technology. 3GPP RAN1 Delegate.  
+                  </p>                                    
+              </div>        
+            </div> 
+           
+           
             <div class="col-md-12 ">             
               <div class="service-div">                                      
                  <!-- <i class="fa fa-flask fa-5x"></i>  -->                              
@@ -277,7 +287,7 @@
               <div class="service-div">                                      
                  <!-- <i class="fa fa-flask fa-5x"></i> -->                               
                   <h3>Graduate Research Assistant</h3>  
-                  <h5> <strong>Virginia Tech, Blacksburg, VA | August 2012 - Present</strong> </h5>                 
+                  <h5> <strong>Virginia Tech, Blacksburg, VA | August 2012 - December 2016</strong> </h5>                 
                   <p>
                       PhD candidate and GRA affiliated to Wireless@VT and Hume Center for National Security and Technology at Virginia Tech. Primary research focus is on fundamental limits of caching and content distribution in 5G wireless networks, latency trade-offs under secrecy constraints in delay limited IoT networks.
                   </p>                                    
@@ -365,9 +375,29 @@
 
                   <ol type ="1">    
 
-                  
-                  
+									<li>
+                  <h6> <strong> <a href = "https://ieeexplore.ieee.org/abstract/document/8374867" target="_blank"> Online Edge Caching and Wireless Delivery in Fog-Aided Networks With Dynamic Content Popularity  </a></strong> </h6>  <p class = "citation">
+                    S.M. Azimi, O. Simeone, <strong>A. Sengupta</strong>, R. Tandon</br>
+                    IEEE Journal on Selected Areas in Communications, vol. 36, issue 6, pp 1189-1202, 7 June 2018.
+                  </p>  
+                	</li>
+									
+											
+									 <li>
+                  <h6> <strong> <a href = "https://ieeexplore.ieee.org/abstract/document/8002603" target="_blank">Fog-Aided Wireless Networks for Content Delivery: Fundamental Latency Trade-Offs </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon and O. Simeone </br>
+                    IEEE Trans. On Information Theory, vol. 63, issue 10, pp 6650 - 6678, 4 August 2017.
+                  </p>  
+                	</li>
 
+                  <li>                  
+                  <h6> <strong> <a href = "https://ieeexplore.ieee.org/abstract/document/7843674/" target="_blank"> Improved Approximation of Storage-Rate Tradeoff for Caching with Multiple Demands </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon </br>
+                    IEEE Trans. On Communications, vol. 65, issue 5, pp 1940-1955, 6 February 2017.
+                  </p>   
+                  </li>  
+				  
+				  
                   <li>               
                   <h6> <strong><a href = "http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6971188" target="_blank">Fundamental Limits of Caching with Secure Delivery </a></strong> </h6>  <p class = "citation">
                     <strong>A. Sengupta</strong>, R. Tandon and T.C. Clancy </br>
@@ -415,67 +445,55 @@
             </div> 
 
 			
-			<div class="col-md-12 ">             
-              <div class="service-div">                                                         
-                  <h3>Preprints</h3>  
-				  
-                  <ol type ="1">    
-                  				  
-				  <li>                  
-                  <h6> <strong> <a href = "http://arxiv.org/abs/1606.04202" target="_blank"> Improved Approximation of Storage-Rate Tradeoff for Caching with Multiple Demands </a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, R. Tandon </br>
-                    arXiv preprint: 1606.04202, 14 June 2016. (Under submission: IEEE Trans. on Communications, June 2016)
-                  </p>   
-                  </li>  
-				  
-				  
-                  <li>
-                  <h6> <strong> <a href = "http://arxiv.org/abs/1605.01690" target="_blank"> Cloud and Cache Aided Wireless Systems: Fundamental Performance Trade-Offs </a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, R. Tandon and O. Simeone </br>
-                    arXiv preprint: 1605.01690, 6 May 2016. (Under submission: IEEE Trans. on Information Theory, May 2016)
-                  </p>  
-                </li>
-
-                  <li>
-                  <h6> <strong><a href = "http://arxiv.org/abs/1512.07856" target="_blank">Cache aided wireless networks: Tradeoffs between storage and latency</a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, R. Tandon and O. Simeone </br>
-                    arXiv preprint: 1512.07856, 24 December 2015. (Extended version of paper presented at CISS 2016)
-                  </p>   
-                  </li>
-
-                  
-                  <li>
-                  <h6> <strong><a href = "http://http://arxiv.org/abs/1312.3961" target="_blank">Fundamental Limits of Caching with Secure Delivery </a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, R. Tandon and T.C. Clancy </br>
-                    arXiv preprint: 1312.3961, 11 December 2014.
-                  </p> 
-                  </li>
-				  
-				  <li>
-                  <h6> <strong> Learning Collaborative Caching Strategies in Small Cell Networks </a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy </br>
-                    In Preparation, June 2016.
-                  </p> 
-                  </li>
-                                 
-                  </ol>
-                  
-                                          
-              </div>        
-            </div>      
+			   
 
             <div class="col-md-12 ">             
               <div class="service-div">                                                         
                   <h3>Conference Publications</h3>  
 
-                  <ol type ="1">    
+                  <ol type ="1">   
+                  	
+                  	<li>
+                  <h6> <strong> 5G-NR (New Radio) CSI Computation Algorithm and Performance</strong> </h6>  <p class = "citation">
+                    B. Mondal, V. Sergeev,  <strong>A. Sengupta</strong>, A. Davydov</br>
+                    52nd Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, October 2018.
+                  </p>  
+                	</li>		
+                  	
+                  	<li>
+                  <h6> <strong> Impact of Analog Beamforming on 5G-NR mmWave System Performances</strong> </h6>  <p class = "citation">
+                    B. Mondal, <strong>A. Sengupta</strong>, G. Ermolaev, V. Sergeev, A. Davydov, E. Kwon</br>
+                    IEEE Vehicular Technology Conference (VTC-Fall), Chicago IL, August 2018.
+                  </p>  
+                	</li>	 
+                  	
+                  <li>
+                  <h6> <strong> <a href = "https://ieeexplore.ieee.org/abstract/document/8006722" target="_blank"> Online Edge Caching in Fog-Aided Wireless Networks </a></strong> </h6>  <p class = "citation">
+                    S.M. Azimi, O. Simeone, <strong>A. Sengupta</strong>, R. Tandon</br>
+                    IEEE International Symposium on Information Theory (ISIT), Aachen, Germany, June 2017.
+                  </p>  
+                	</li>	
+                  	
+                  <li>             
+                  <h6> <strong><a href = "https://ieeexplore.ieee.org/abstract/document/7849002" target="_blank">Pipelined Fronthaul-Edge Content Delivery in Fog Radio Access Networks </a></strong> </h6>               
+                  <p class = "citation">
+                      <strong>A. Sengupta</strong>, R. Tandon, O.Simeone </br>
+                     	IEEE Globecom Workshops - International Workshop on Emerging Technologies for 5G Wireless Cellular Networks, Washington DC, December 2016.
+                  </p>
+                  </li>		
                   
-				  <li>             
-                  <h6> <strong><a href = "https://filebox.ece.vt.edu/~aviksg/latmal_milcom.pdf" target="_blank">Malware Propagation in Fully Connected Networks:
-A Netflow-Based Analysis</a></strong> </h6>               
+                  <li>
+                  <h6> <strong><a href = "https://ieeexplore.ieee.org/abstract/document/7869139/" target="_blank">Layered Caching for Heterogeneous Storage </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon and T. C. Clancy </br>
+                    50th Asilomar Conference on Signals, Systems and Computers, Pacific Grove, CA, November 2016.
+                  </p> 
+                  </li>
+                  
+				  			<li>             
+                  <h6> <strong><a href = "https://ieeexplore.ieee.org/abstract/document/7795376" target="_blank">Malware Propagation in Fully Connected Networks: A Netflow-Based Analysis</a></strong> </h6>               
                   <p class = "citation">
                       K. M. Straub, <strong>A. Sengupta</strong>, J. M. Ernst, R. W. McGwier, M. Watchorn, R. Tilley and R. Marchany </br>
-                      Accepted at IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
+                      IEEE Military Communications Conference (MILCOM), Baltimore, MD, November 2016.
                   </p>
                   </li>
 				  
@@ -564,13 +582,7 @@ A Netflow-Based Analysis</a></strong> </h6>
                   </p> 
                   </li> 
 				
-				  <li>
-                  <h6> <strong><a href = "https://filebox.ece.vt.edu/~aviksg/asilomar.pdf" target="_blank">Layered Caching for Heterogeneous Storage </a></strong> </h6>  <p class = "citation">
-                    <strong>A. Sengupta</strong>, R. Tandon and T.C. Clancy </br>
-                    Submitted to Asilomar 2016.
-                  </p> 
-                  </li>
-                               
+				                               
                   
 				
 				  </ol>
@@ -578,7 +590,46 @@ A Netflow-Based Analysis</a></strong> </h6>
             </div> 
 
 
-            
+            <div class="col-md-12 ">             
+              <div class="service-div">                                                         
+                  <h3>Preprints</h3>  
+				  
+                  <ol type ="1">    
+                  				  
+				  				<li>
+                  <h6> <strong> <a href = "http://arxiv.org/abs/1605.01690" target="_blank"> Fog-Aided Wireless Networks for Content Delivery: Fundamental Latency Trade-Offs </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon and O. Simeone </br>
+                    arXiv preprint: 1605.01690, 6 May 2016.
+                  </p>  
+                </li>
+
+                  <li>
+                  <h6> <strong><a href = "http://arxiv.org/abs/1512.07856" target="_blank">Cache aided wireless networks: Tradeoffs between storage and latency</a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon and O. Simeone </br>
+                    arXiv preprint: 1512.07856, 24 December 2015. (Extended version of paper presented at CISS 2016)
+                  </p>   
+                  </li>
+
+                  
+                  <li>
+                  <h6> <strong><a href = "http://http://arxiv.org/abs/1312.3961" target="_blank">Fundamental Limits of Caching with Secure Delivery </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, R. Tandon and T.C. Clancy </br>
+                    arXiv preprint: 1312.3961, 11 December 2014.
+                  </p> 
+                  </li>
+				  
+				  <li>
+                  <h6> <strong> <a href = "http://www2.engr.arizona.edu/~tandonr/journal-papers/Collaborative-Caching-Learning.pdf" target="_blank"> Learning Collaborative Caching Strategies in Small Cell Networks </a></strong> </h6>  <p class = "citation">
+                    <strong>A. Sengupta</strong>, S. Amuru, R. Tandon, R. M. Buehrer and T. Charles Clancy </br>
+                    Manuscript under submission, June 2017.
+                  </p> 
+                  </li>
+                                 
+                  </ol>
+                  
+                                          
+              </div>        
+            </div>   
 
 
 
@@ -588,6 +639,7 @@ A Netflow-Based Analysis</a></strong> </h6>
                   <h6> <strong><a href = "http://www.google.com/patents/US20140274104" target="_blank">System And Method For Heterogenous Spectrum Sharing Between Commercial Cellular Operators And Legacy Incumbent Users In Wireless Networks</a></strong> </h6>
 
                   <p class = "citation">
+                 	<strong>US Patent 9,516,508 </strong>, Issue Date: 6 December 2016</br>
                   Ashwin Amanna, Joseph Mitola III, T. Charles Clancy, J. H. Reed, R. W. McGweir, <strong>A. Sengupta</strong>, A. Kumar
                   </p>                 
                   <p class = "citation">
@@ -655,10 +707,10 @@ A Netflow-Based Analysis</a></strong> </h6>
 <div class="row text-center" >
 <div>
   <h4 class="cont">
-            <span><i class="fa fa-building-o"> </i> <strong>Address:</strong>  476 Durham Hall, </br>1145 Perry Street, Blacksburg, VA 24060 </span>
+            <span><i class="fa fa-building-o"> </i> <strong>Address:</strong>  3600 Juliette Lane, Santa Clara, CA 95054, USA. </span>
                         <br />
-            <span><i class="fa fa-phone"> </i> <strong>Phone: </strong> (302) 690-4165</span>
-                        <br />
+           <!-- <span><i class="fa fa-phone"> </i> <strong>Phone: </strong> (302) 690-4165</span>
+                        <br /> -->
             <span><i class="fa fa-envelope-o"> </i> <strong>E-Mail:</strong> aviksg at vt dot edu </span>
                         <br/>
        </h4>    
@@ -669,7 +721,7 @@ A Netflow-Based Analysis</a></strong> </h6>
             <a href="https://scholar.google.com/citations?user=x2vtW-cAAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-google-scholar-square ai-3x"></i></a>
             <a href="https://www.researchgate.net/profile/Avik_Sengupta" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a>
             <a href="https://www.facebook.com/avik.bubai?fref=ts" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
-            <a href="https://www.youtube.com/user/aviksenguptabubai" target="_blank"><i class="fa fa-youtube-square fa-3x"></i></a>
+            <a href="https://www.youtube.com/user/aviksenguptabubai" target="_blank"><i class="fa fa-500px-square fa-3x"></i></a>
 
           </div> 
           </div>             
