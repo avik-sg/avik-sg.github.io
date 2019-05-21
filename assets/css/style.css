@@ -353,6 +353,11 @@ border-color: #3D3D3D;
     margin-bottom:20px;
 }
 
+.bulletlist
+{
+    font-size: 14px
+    padding-bottom: 8px;
+}
 
 .btn-download {
     background-color: #b2303f; /* Download button fill */
