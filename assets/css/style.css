@@ -3,8 +3,10 @@
 /*=======================================
     GENERAL STYLES
 ==================================================*/
-body {
-          font-family:'OpenSans-Regular', sans-serif;
+body, ul {
+          /*font-family:'OpenSans-Regular', sans-serif;*/
+          font-family: 'Open Sans', sans-serif;
+
     font-size:14px;
 }
 
@@ -20,8 +22,14 @@ body {
     text-align:center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family:'OpenSans-Regular', sans-serif;
+h2, h3, h4, h5, h6 {
+    font-family:'Open Sans', sans-serif;
+}
+
+h1 
+{
+    font-family: 'Roboto', sans-serif;
+
 }
 
 ol
@@ -31,7 +39,7 @@ ol
 li
 {
     font-size: 18px;
-    font-family: 'OpenSans-Regular', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -343,6 +351,22 @@ border-color: #3D3D3D;
     -moz-border-radius: 20px 20px 10px 0px;
     border-radius: 20px 20px 10px 0px;
     margin-bottom:20px;
+}
+
+
+.btn-download {
+    background-color: #b2303f; /* Download button fill */
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  font-family: 'Roboto', sans-serif;
+  font-size:18px;
+  font-weight: 400px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
 }
 
 
